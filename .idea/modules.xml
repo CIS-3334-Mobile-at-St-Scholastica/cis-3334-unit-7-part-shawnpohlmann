@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HeartRateTracker-AsgStart.iml" filepath="$PROJECT_DIR$/HeartRateTracker-AsgStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cis-3334-unit-7-part-shawnpohlmann.iml" filepath="$PROJECT_DIR$/cis-3334-unit-7-part-shawnpohlmann.iml" />
     </modules>
   </component>
 </project>
